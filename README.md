@@ -9,7 +9,6 @@ Welcome to the **Event Management App**, a simple web-based application designed
 - [File Structure](#file-structure)
 - [Technologies Used](#technologies-used)
 - [How to Run the Project](#how-to-run-the-project)
-- [Screenshots](#screenshots)
 - [License](#license)
 
 ---
