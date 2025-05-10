@@ -72,6 +72,9 @@ Alternatively, you can host the project on a local server or deploy it to a web 
 
 ---
 
+
+SEE live in here:  https://event-management-system-1i1ky75jb-c-mohammed-zaids-projects.vercel.app/
+
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
